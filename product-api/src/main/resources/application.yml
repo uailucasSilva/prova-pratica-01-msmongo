@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://lucashumberto:79sirACxK52piw7n@cluster0.nau4j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: product-api
